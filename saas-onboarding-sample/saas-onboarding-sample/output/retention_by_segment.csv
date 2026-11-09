@@ -1,0 +1,5 @@
+segment,base_customers,nrr,grr,logo_churn_12m
+SMB,32,0.8804,0.6818,0.4375
+Mid-Market,27,0.9563,0.7947,0.2222
+Enterprise,6,1.4731,1.0,0.0
+Unknown,3,0.8514,0.7973,0.0

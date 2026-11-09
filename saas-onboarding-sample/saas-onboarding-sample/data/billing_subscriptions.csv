@@ -1,0 +1,200 @@
+subscription_id,billing_customer_name,plan,currency,mrr_local,start_month,end_month
+sub_0001,Quartz Logistics,Scale,EUR,13888.89,2026-06-01,
+sub_0002,"Cobalt Media, LLC",Starter,USD,1200.0,2025-01-01,2025-12-01
+sub_0003,Acme Foods Inc,Starter,USD,400.0,2025-12-01,
+sub_0004,"Summit Works, LLC",Growth,INR,375000.0,2026-02-01,
+sub_0005,Harbor Labs Inc,Starter,EUR,370.37,2025-08-01,2025-10-01
+sub_0006,Harbor Labs Inc,Starter,EUR,481.48,2025-10-01,2026-01-01
+sub_0007,Harbor Labs Inc,Starter,EUR,337.04,2026-01-01,
+sub_0008,GraniteHealth,Starter,USD,800.0,2026-02-01,2026-04-01
+sub_0009,GraniteHealth,Starter,USD,1600.0,2026-04-01,
+sub_0010,FALCON ENERGY,Starter,USD,400.0,2026-02-01,2026-10-01
+sub_0011,DeltaAnalytics,Starter,EUR,740.74,2025-08-01,2025-11-01
+sub_0012,DeltaAnalytics,Starter,EUR,1111.11,2025-11-01,2025-12-01
+sub_0013,SummitMedia,Growth,INR,375000.0,2026-03-01,
+sub_0014,"Cobalt Foods, LLC",Starter,EUR,1111.11,2025-02-01,2025-05-01
+sub_0015,"Cobalt Foods, LLC",Starter,EUR,2222.22,2025-05-01,
+sub_0016,RIDGE LOGISTICS,Starter,EUR,370.37,2025-10-01,
+sub_0017,Zephyr Foods,Scale,EUR,13888.89,2026-09-01,
+sub_0018,Nova Works,Growth,INR,375000.0,2025-05-01,2026-07-01
+sub_0019,Cobalt Health,Growth,EUR,4166.67,2025-09-01,2026-04-01
+sub_0020,Cobalt Health,Growth,EUR,6250.0,2026-04-01,
+sub_0021,Pine Systems,Growth,INR,250000.0,2025-07-01,2026-06-01
+sub_0022,Pine Systems,Growth,INR,500000.0,2026-06-01,
+sub_0023,KestrelMedia,Growth,USD,3000.0,2025-06-01,2026-01-01
+sub_0024,KestrelMedia,Growth,USD,3900.0,2026-01-01,
+sub_0025,"Acme Media, LLC",Starter,INR,33333.33,2025-09-01,2026-08-01
+sub_0026,ACME ENERGY,Scale,EUR,4629.63,2026-10-01,
+sub_0027,Cobalt Logistics,Scale,INR,1250000.0,2026-08-01,
+sub_0028,Falcon Analytics Inc,Growth,USD,3000.0,2025-10-01,
+sub_0029,Falcon Works,Starter,EUR,1111.11,2026-05-01,
+sub_0030,Maple Works Inc,Growth,EUR,1388.89,2025-08-01,2026-08-01
+sub_0031,Pine Retail Inc,Growth,EUR,4166.67,2025-04-01,2025-02-01
+sub_0032,Pine Retail Inc,Growth,EUR,2916.67,2025-06-01,
+sub_0033,"Zephyr Energy, LLC",Starter,USD,1200.0,2025-08-01,2025-06-01
+sub_0034,Orbit Logistics,Starter,INR,100000.0,2026-01-01,2026-03-01
+sub_0035,Falcon Labs,Growth,EUR,4166.67,2026-02-01,
+sub_0036,"Summit Logistics, LLC",Growth,INR,250000.0,2025-05-01,
+sub_0037,Quartz Foods,Starter,INR,33333.33,2025-08-01,2025-11-01
+sub_0038,"Ridge Works, LLC",Starter,USD,800.0,2026-10-01,
+sub_0039,"Willow Energy, LLC",Scale,EUR,13888.89,2025-06-01,2025-04-01
+sub_0040,"Willow Energy, LLC",Scale,EUR,20833.33,2025-11-01,
+sub_0041,KESTREL ENERGY,Scale,EUR,9259.26,2026-07-01,
+sub_0042,FalconFoods,Starter,USD,1200.0,2026-04-01,
+sub_0043,LumenRetail,Scale,INR,1250000.0,2026-04-01,
+sub_0044,Pine Labs,Starter,EUR,740.74,2026-01-01,2026-09-01
+sub_0045,"Harbor Systems, LLC",Scale,USD,15000.0,2026-02-01,2026-06-01
+sub_0046,"Harbor Systems, LLC",Scale,USD,22500.0,2026-06-01,
+sub_0047,ACME SYSTEMS,Starter,EUR,1111.11,2026-02-01,
+sub_0048,"Tidal Retail, LLC",Growth,EUR,2777.78,2025-09-01,2026-05-01
+sub_0049,"Tidal Retail, LLC",Growth,EUR,3611.11,2026-05-01,
+sub_0050,EchoLabs,Growth,EUR,1388.89,2026-04-01,
+sub_0051,"Ridge Media, LLC",Growth,EUR,1388.89,2025-05-01,
+sub_0052,Willow Retail Inc,Growth,EUR,1388.89,2025-06-01,2025-11-01
+sub_0053,Iris Energy,Starter,USD,800.0,2026-03-01,
+sub_0054,Umber Analytics Inc,Scale,INR,1250000.0,2025-03-01,2026-02-01
+sub_0055,Umber Analytics Inc,Scale,INR,1875000.0,2026-02-01,2026-05-01
+sub_0056,Umber Analytics Inc,Scale,INR,2437500.0,2026-05-01,
+sub_0057,DeltaWorks,Scale,USD,15000.0,2025-02-01,2026-07-01
+sub_0058,DeltaWorks,Scale,USD,19500.0,2026-07-01,
+sub_0059,WillowLabs,Starter,EUR,370.37,2025-01-01,
+sub_0060,"Tidal Analytics, LLC",Growth,INR,250000.0,2026-04-01,
+sub_0061,IRIS FOODS,Growth,EUR,2777.78,2025-05-01,
+sub_0062,ZEPHYR LABS,Scale,USD,10000.0,2026-02-01,2026-10-01
+sub_0063,ZEPHYR LABS,Scale,USD,20000.0,2026-10-01,
+sub_0064,Willow Systems,Scale,USD,5000.0,2025-04-01,2026-10-01
+sub_0065,Willow Systems,Scale,USD,6500.0,2026-10-01,
+sub_0066,Juniper Energy,Starter,EUR,740.74,2025-10-01,2026-05-01
+sub_0067,CobaltRetail,Starter,USD,400.0,2025-12-01,
+sub_0068,JuniperSystems,Starter,USD,1200.0,2025-09-01,2025-11-01
+sub_0069,JuniperSystems,Starter,USD,840.0,2025-11-01,
+sub_0070,Iris Media,Starter,USD,800.0,2025-10-01,2025-11-01
+sub_0071,Vertex Energy,Growth,EUR,2777.78,2025-02-01,2026-03-01
+sub_0072,Vertex Energy,Growth,EUR,4166.67,2026-03-01,2026-04-01
+sub_0073,Vertex Energy,Growth,EUR,6250.0,2026-04-01,
+sub_0074,GRANITE ENERGY,Starter,INR,66666.67,2026-05-01,
+sub_0075,Blue Systems Inc,Scale,USD,15000.0,2025-03-01,
+sub_0076,Lumen Energy,Growth,EUR,4166.67,2026-09-01,
+sub_0077,Nova Energy,Starter,INR,33333.33,2025-10-01,
+sub_0078,Delta Systems Inc,Starter,INR,66666.67,2025-02-01,2026-06-01
+sub_0079,Juniper Foods Inc,Growth,USD,4500.0,2025-05-01,2025-12-01
+sub_0080,COBALT LABS,Growth,USD,1500.0,2025-05-01,2025-07-01
+sub_0081,COBALT LABS,Growth,USD,1950.0,2025-07-01,2025-11-01
+sub_0082,Orbit Systems,Growth,USD,1500.0,2026-02-01,2026-09-01
+sub_0083,Orbit Systems,Growth,USD,3000.0,2026-09-01,
+sub_0084,HarborAnalytics,Starter,INR,100000.0,2025-02-01,
+sub_0085,QUARTZ LABS,Growth,USD,3000.0,2025-08-01,
+sub_0086,PineMedia,Growth,EUR,4166.67,2025-11-01,2026-03-01
+sub_0087,PineMedia,Growth,EUR,2916.67,2026-03-01,
+sub_0088,"Juniper Health, LLC",Starter,EUR,740.74,2025-04-01,2025-10-01
+sub_0089,Orbit Energy Inc,Scale,INR,1250000.0,2025-09-01,
+sub_0090,"Echo Works, LLC",Starter,USD,400.0,2025-11-01,2026-02-01
+sub_0091,"Echo Works, LLC",Starter,USD,520.0,2026-02-01,
+sub_0092,Blue Energy,Starter,EUR,370.37,2026-04-01,2026-07-01
+sub_0093,Blue Energy,Starter,EUR,481.48,2026-07-01,
+sub_0094,Summit Analytics,Starter,USD,400.0,2025-01-01,
+sub_0095,Quartz Works Inc,Growth,USD,4500.0,2026-02-01,
+sub_0096,Falcon Media,Growth,USD,1500.0,2025-12-01,
+sub_0097,HARBOR RETAIL,Scale,USD,10000.0,2026-07-01,
+sub_0098,"Summit Labs, LLC",Starter,USD,800.0,2025-02-01,2025-04-01
+sub_0099,"Summit Labs, LLC",Starter,USD,1200.0,2025-04-01,2026-09-01
+sub_0100,"Summit Labs, LLC",Starter,USD,1560.0,2026-09-01,
+sub_0101,Vertex Works,Growth,INR,125000.0,2025-03-01,
+sub_0102,COBALT ANALYTICS,Growth,USD,4500.0,2026-07-01,
+sub_0103,Tidal Systems Inc,Scale,USD,15000.0,2026-01-01,2026-04-01
+sub_0104,Tidal Systems Inc,Scale,USD,22500.0,2026-04-01,
+sub_0105,"Tidal Media, LLC",Growth,INR,375000.0,2025-04-01,2025-05-01
+sub_0106,"Tidal Media, LLC",Growth,INR,562500.0,2025-05-01,2026-03-01
+sub_0107,"Tidal Media, LLC",Growth,INR,843750.0,2026-03-01,
+sub_0108,LUMEN FOODS,Growth,INR,375000.0,2026-04-01,
+sub_0109,Juniper Logistics,Scale,INR,833333.33,2025-05-01,2026-09-01
+sub_0110,Juniper Logistics,Scale,INR,1083333.33,2026-09-01,
+sub_0111,Echo Systems Inc,Starter,USD,800.0,2025-03-01,2026-03-01
+sub_0112,Juniper Retail,Growth,USD,4500.0,2025-05-01,2026-01-01
+sub_0113,Juniper Retail,Growth,USD,6750.0,2026-01-01,2026-03-01
+sub_0114,JuniperLabs,Starter,USD,1200.0,2025-05-01,2026-04-01
+sub_0115,FALCON LOGISTICS,Scale,USD,5000.0,2026-01-01,
+sub_0116,Granite Media,Starter,EUR,1111.11,2026-10-01,
+sub_0117,BLUE MEDIA,Starter,USD,400.0,2026-03-01,
+sub_0118,Echo Logistics,Growth,EUR,2777.78,2025-10-01,
+sub_0119,Nova Foods Inc,Growth,USD,3000.0,2026-02-01,
+sub_0120,ZephyrRetail,Starter,INR,100000.0,2025-12-01,
+sub_0121,Ridge Energy,Growth,USD,3000.0,2025-03-01,
+sub_0122,Lumen Media Inc,Starter,INR,33333.33,2025-10-01,2026-08-01
+sub_0123,Lumen Media Inc,Starter,INR,66666.67,2026-08-01,
+sub_0124,QUARTZ RETAIL,Growth,EUR,1388.89,2026-09-01,
+sub_0125,GRANITE WORKS,Growth,USD,4500.0,2026-04-01,
+sub_0126,OrbitHealth,Scale,EUR,4629.63,2026-05-01,
+sub_0127,Umber Media Inc,Growth,EUR,2777.78,2026-09-01,
+sub_0128,IRIS LOGISTICS,Growth,INR,125000.0,2026-05-01,
+sub_0129,BLUE RETAIL,Growth,USD,4500.0,2026-09-01,
+sub_0130,"Ridge Labs, LLC",Starter,EUR,370.37,2025-06-01,2026-01-01
+sub_0131,Willow Logistics,Starter,EUR,1111.11,2026-07-01,
+sub_0132,Iris Labs Inc,Scale,USD,10000.0,2025-10-01,2026-01-01
+sub_0133,Iris Labs Inc,Scale,USD,7000.0,2026-01-01,
+sub_0134,KESTREL HEALTH,Starter,USD,800.0,2026-06-01,2026-10-01
+sub_0135,KESTREL HEALTH,Starter,USD,1200.0,2026-10-01,
+sub_0136,"Pine Foods, LLC",Scale,USD,10000.0,2025-06-01,2026-06-01
+sub_0137,"Pine Foods, LLC",Scale,USD,15000.0,2026-06-01,
+sub_0138,BLUE FOODS,Growth,INR,250000.0,2026-02-01,2026-09-01
+sub_0139,BLUE FOODS,Growth,INR,175000.0,2026-09-01,
+sub_0140,Falcon Retail,Growth,USD,1500.0,2026-08-01,
+sub_0141,"Vertex Systems, LLC",Growth,INR,250000.0,2025-05-01,2025-07-01
+sub_0142,"Vertex Systems, LLC",Growth,INR,325000.0,2025-07-01,
+sub_0143,VERTEX LOGISTICS,Scale,USD,5000.0,2025-01-01,2025-07-01
+sub_0144,VERTEX LOGISTICS,Scale,USD,7500.0,2025-07-01,2026-01-01
+sub_0145,VERTEX LOGISTICS,Scale,USD,5250.0,2026-01-01,
+sub_0146,MapleEnergy,Growth,USD,1500.0,2026-02-01,2026-08-01
+sub_0147,MapleEnergy,Growth,USD,1950.0,2026-08-01,
+sub_0148,Kestrel Systems Inc,Scale,USD,15000.0,2026-01-01,
+sub_0149,Summit Retail,Growth,USD,4500.0,2025-10-01,
+sub_0150,DELTA FOODS,Growth,USD,4500.0,2025-10-01,
+sub_0151,Summit Foods,Growth,USD,1500.0,2026-02-01,
+sub_0152,ZEPHYR HEALTH,Scale,EUR,4629.63,2025-10-01,
+sub_0153,Granite Logistics,Starter,USD,1200.0,2025-10-01,
+sub_0154,Nova Labs,Growth,EUR,2777.78,2025-06-01,
+sub_0155,JUNIPER ANALYTICS,Scale,USD,15000.0,2026-07-01,
+sub_0156,Quartz Media,Starter,EUR,740.74,2025-10-01,
+sub_0157,NovaAnalytics,Growth,EUR,4166.67,2025-03-01,2026-07-01
+sub_0158,NovaAnalytics,Growth,EUR,5416.67,2026-07-01,2026-10-01
+sub_0159,NovaAnalytics,Growth,EUR,8125.0,2026-10-01,
+sub_0160,UMBER ENERGY,Growth,USD,4500.0,2025-01-01,
+sub_0161,Maple Analytics,Scale,INR,1250000.0,2025-05-01,2026-10-01
+sub_0162,Maple Analytics,Scale,INR,2500000.0,2026-10-01,
+sub_0163,Falcon Systems Inc,Starter,EUR,370.37,2025-01-01,2025-07-01
+sub_0164,Falcon Systems Inc,Starter,EUR,555.56,2025-07-01,2025-11-01
+sub_0165,Falcon Systems Inc,Starter,EUR,1111.11,2025-11-01,
+sub_0166,Echo Foods,Starter,USD,1200.0,2026-06-01,2026-09-01
+sub_0167,Echo Foods,Starter,USD,1800.0,2026-09-01,
+sub_0168,ZephyrMedia,Growth,EUR,2777.78,2025-11-01,
+sub_0169,Ridge Health,Starter,USD,800.0,2025-07-01,
+sub_0170,Granite Analytics,Scale,USD,5000.0,2025-07-01,
+sub_0171,Maple Media,Growth,USD,1500.0,2025-11-01,2026-01-01
+sub_0172,Ridge Systems Inc,Growth,EUR,2777.78,2026-02-01,
+sub_0173,Summit Systems,Growth,EUR,1388.89,2026-03-01,
+sub_0174,Vertex Foods,Growth,USD,1500.0,2026-10-01,
+sub_0175,Lumen Labs Inc,Scale,USD,10000.0,2025-05-01,2025-12-01
+sub_0176,"Orbit Retail, LLC",Growth,USD,1500.0,2026-05-01,
+sub_0177,"Blue Works, LLC",Scale,EUR,9259.26,2025-08-01,
+sub_0178,Pine Logistics,Growth,USD,3000.0,2025-01-01,2026-08-01
+sub_0179,QUARTZ ENERGY,Starter,USD,1200.0,2026-01-01,
+sub_0180,NovaLogistics,Starter,INR,33333.33,2025-02-01,2025-08-01
+sub_0181,TIDAL WORKS,Growth,INR,250000.0,2026-04-01,
+sub_0182,Maple Retail,Scale,USD,5000.0,2025-05-01,2025-09-01
+sub_0183,Harbor Foods Inc,Starter,USD,400.0,2025-09-01,2026-07-01
+sub_0184,"Ridge Retail, LLC",Growth,EUR,1388.89,2026-06-01,
+sub_0185,WILLOW WORKS,Starter,USD,400.0,2025-09-01,2026-05-01
+sub_0186,EchoMedia,Starter,INR,66666.67,2026-01-01,
+sub_0187,"Kestrel Retail, LLC",Scale,USD,10000.0,2026-09-01,
+sub_0188,TEST - Northwind QA,Scale,USD,5000,2025-04-01,
+sub_0189,Internal Demo Account,Scale,USD,5000,2025-04-01,
+sub_0190,test_customer_2,Scale,USD,5000,2025-04-01,
+sub_0191,Trial 0,Starter,USD,0,2025-11-01,2025-12-01
+sub_0192,Trial 1,Starter,USD,0,2025-11-01,2025-12-01
+sub_0193,Trial 2,Starter,USD,0,2025-11-01,2025-12-01
+sub_0194,Trial 3,Starter,USD,0,2025-11-01,2025-12-01
+sub_0195,Trial 4,Starter,USD,0,2025-11-01,2025-12-01
+sub_0196,PineMedia,Growth,EUR,2916.67,2026-03-01,
+sub_0197,Willow Systems,Scale,USD,5000.0,2025-04-01,2026-10-01
+sub_0198,Nova Works,Growth,INR,375000.0,2025-05-01,2026-07-01
+sub_0199,Orbit Systems,Growth,USD,1500.0,2026-02-01,2026-09-01
