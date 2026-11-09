@@ -1,9 +1,0 @@
-source,issue,rows_affected,handling
-Billing,Revenue in non-USD currencies,103,Converted to USD at fixed rates
-Billing,Customer names not matching CRM exactly,96,Matched on a normalised name
-Billing,Free trials at $0 MRR,5,Excluded from customer counts
-Billing,Duplicate subscription rows (exported twice),4,Kept one copy
-Billing,Test or internal accounts,3,Excluded from revenue
-Billing,End month before start month,3,"Excluded, sent back to customer to confirm"
-CRM,Accounts with no segment,8,Labelled Unknown
-CRM,Duplicate accounts for the same company,6,Merged into the earliest account
